@@ -9,10 +9,9 @@
 	object-fit:cover;
 }
 .product-cards{
-	postion:relative;
+	postion:absolute;
 	top:250px;
 	left:50%;
-	transform:translate(-50%);
 	display:flex;
 	z-index:1;
 }
